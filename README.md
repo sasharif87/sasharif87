@@ -26,4 +26,4 @@ Google Looker Studio
 ### Reach me
 
 - LinkedIn — [linkedin.com/in/shan-sharif](https://www.linkedin.com/in/shan-sharif/)
-- Email — shsharif@usa.net
+
